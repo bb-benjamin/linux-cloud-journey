@@ -40,3 +40,10 @@ lives here.
 - LinkedIn: [https://www.linkedin.com/in/benjamin-botchway]
 - Blog: [cloudwithben.hashnode.dev]
 - Location: Ghana 🇬🇭
+
+
+| Day | Topic | Status |
+|-----|-------|--------|
+| Day 1 | Linux Fundamentals, Distributions, WSL Setup | ✅ Done |
+| Day 2 | Linux File System Structure — All Directories | ✅ Done |
+| Day 3 | Coming tomorrow | 🔄 |
