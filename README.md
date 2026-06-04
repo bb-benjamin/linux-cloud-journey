@@ -31,7 +31,8 @@ lives here.
 | Day | Topic | Status |
 |-----|-------|--------|
 | Day 1 | Linux Fundamentals, Distributions, WSL Setup | ✅ Done |
-| Day 2 | Coming tomorrow | 🔄 |
+| Day 2 | Linux File System Structure — All Directories | ✅ Done |
+| Day 3 | Coming tomorrow | 🔄 |
 
 ---
 
@@ -41,9 +42,3 @@ lives here.
 - Blog: [cloudwithben.hashnode.dev]
 - Location: Ghana 🇬🇭
 
-
-| Day | Topic | Status |
-|-----|-------|--------|
-| Day 1 | Linux Fundamentals, Distributions, WSL Setup | ✅ Done |
-| Day 2 | Linux File System Structure — All Directories | ✅ Done |
-| Day 3 | Coming tomorrow | 🔄 |
