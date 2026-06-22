@@ -60,6 +60,10 @@ At the bottom sit three internal tools. The NAT gateway lets the servers reach t
 
 ---
 
+## Network Architecture Diagram
+
+![DropBag Network Architecture](dropbag-architecture.png)
+
 ## The Result
 
 Our Lagos user, London user, and Jakarta user all get a fast, secure, reliable response — and none of them has any idea this whole system is running behind the scenes. That is exactly how good infrastructure should feel: completely invisible.
