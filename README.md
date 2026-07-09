@@ -42,3 +42,12 @@ lives here.
 - Blog: [cloudwithben.hashnode.dev]
 - Location: Ghana 🇬🇭
 
+
+
+
+
+
+## My Projects
+
+### 🚀 [Azure First Deployment](./azure-first-deployment/)
+Deployed Azure infrastructure from scratch — VM, VNet, SSH, and troubleshooting real issues.
