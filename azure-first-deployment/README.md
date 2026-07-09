@@ -1,3 +1,5 @@
+# Week 4 — Azure Fundamentals: Deploying My First Azure Infrastructure
+
 ## 1. Objective
 This week I deployed a basic Azure environment from scratch — a resource group, a virtual network, and a virtual machine — and connected to it via SSH. The goal was to get real hands-on experience with Azure's core building blocks (compute, networking, security) rather than just reading about them, and to understand the shared responsibility model in practice.
 
