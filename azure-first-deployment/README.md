@@ -82,14 +82,13 @@ bash
 hostname   # myFirstVM
 whoami     # azureuser
 uname -a   # confirms Ubuntu/Linux kernel
-https://./screenshots/05-ssh.png
-
+![Successful SSH session](./screenshots/05-ssh.png)
 3.6 Cleanup
 Verified full teardown by checking All Resources with all filters cleared — confirmed zero resources remaining across the subscription after deleting myFirstRG.
 
 bash
 az group delete --name myFirstRG --yes --no-wait
-https://./screenshots/06-cleanup.png
+![Deleting all resource](./screenshots/06-cleanup.png)
 
 4. Concepts Learned
 Regions vs Availability Zones: A region is a physical geographic location Azure operates in (e.g., East US). Availability Zones are physically separate datacenters within a region, each with independent power, cooling, and networking — used for high availability so that one zone failing doesn't take your whole app down.
